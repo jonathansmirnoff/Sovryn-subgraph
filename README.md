@@ -88,3 +88,6 @@ Thanks to creators/contributors of the following repos for inspiration and code 
 - Blocklytics Bancor Subgraph: https://github.com/blocklytics/bancor-subgraph-v2
 - Uniswap V3 Subgraph: https://github.com/Uniswap/v3-subgraph
 - Protofire library: https://github.com/protofire/subgraph-toolkit
+
+
+test!
